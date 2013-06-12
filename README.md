@@ -15,6 +15,8 @@ The AppleScript was written and tested using Apple's build in "AppleScript Edito
 
 The script text follows (and included in the git repo under /AppleScript):
 
+
+    ```bash```
     set s to "Just type:" & return & "---" & return
 
     activate application "iA Writer"

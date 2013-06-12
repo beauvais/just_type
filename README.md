@@ -16,18 +16,19 @@ The AppleScript was written and tested using Apple's build in "AppleScript Edito
 The script text follows (and included in the git repo under /AppleScript):
 
 
-    ```bash```
-    set s to "Just type:" & return & "---" & return
+```
+set s to "Just type:" & return & "---" & return
 
-    activate application "iA Writer"
-    tell application "iA Writer"
-        make new document
-        activate
-        delay 0.2
-        tell application "System Events" to keystroke s
-        tell application "System Events" to keystroke "d" using command down
-        tell application "System Events" to keystroke "f" using {command down, control down}
-    end tell
+activate application "iA Writer"
+tell application "iA Writer"
+    make new document
+    activate
+    delay 0.2
+    tell application "System Events" to keystroke s
+    tell application "System Events" to keystroke "d" using command down
+    tell application "System Events" to keystroke "f" using {command down, control down}
+end tell
+```
 
 ## Installing
 

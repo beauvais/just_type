@@ -83,6 +83,6 @@ This program is free software: you can redistribute it and/or modify
 
 [1]: http://www.alfredapp.com/
 [2]: http://www.iawriter.com/mac/
-[3]: https://github.com/beauvais/just_type/blob/master/Alfred_Workflows/just_type.alfredworkflow
+[3]: https://github.com/beauvais/just_type/blob/master/Alfred_Workflows/just_type.alfredworkflow?raw=true
 [4]: http://writer.pro/
-[5]: https://github.com/beauvais/just_type/blob/master/Alfred_Workflows/just_type_pro.alfredworkflow
+[5]: https://github.com/beauvais/just_type/blob/master/Alfred_Workflows/just_type_pro.alfredworkflow?raw=true

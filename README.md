@@ -54,8 +54,8 @@ end tell
 
 Simply download the Alfred Workflow File for your chosen iA version, and double click it.
 
-* [iA Writer][3]
-* [Writer Pro][5]
+* [iA Writer workflow][3]
+* [Writer Pro workflow][5]
 
 ## Requirements
 

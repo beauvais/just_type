@@ -3,9 +3,9 @@ just_type
 
 (**Update:** You can now choose either the classic iA Writer or the new [Writer Pro][4] as your just type environment.)
 
-A simple [Alfred 2][1] workflow to open new iA Writer window ready to just get typing.
+A simple [Alfred 2][1] workflow to open a clean, zen-mode window ready to just get typing.
 
-It's a hotkey and AppleScript, which opens [iA Writer][2], inserts the text "Just Type," and puts iA into Zen mode, giving you a big, blank space to type into.
+The workflow is simply a hotkey and AppleScript, which opens [iA Writer][2] or [Writer Pro][4], inserts the text "Just Type," and puts your editor into Zen mode – giving you a big, blank space to type into.
 
 ## Workflow
 
@@ -59,7 +59,7 @@ Simply download the Alfred Workflow File for your chosen iA version, and double 
 
 ## Requirements
 
-You will need a recent Mac OSX system, Alfred 2, and (most likely), the Alfred 2 PowerPack extension.
+You will need a recent Mac OSX system (works on Mountain Lion and Mavericks but is untested on any other systems), Alfred 2, and (possibly), the Alfred 2 PowerPack extension.
 You will also need either [iA Writer][2] or [Writer Pro][4]. 
 
 ## License: GNU GENERAL PUBLIC LICENSE

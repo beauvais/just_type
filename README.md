@@ -35,7 +35,7 @@ end tell
 
 **Writer Pro:**
 
-'''
+```
 set s to "Just type:" & return & "---" & return
 
 activate application "Writer Pro"
@@ -47,7 +47,7 @@ tell application "Writer Pro"
         tell application "System Events" to keystroke "d" using command down
         tell application "System Events" to keystroke "f" using {command down, control down}
 end tell
-'''
+```
 
 
 ## Installing
